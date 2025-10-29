@@ -11,12 +11,6 @@
   --primary: #e6f1ff; /* ← CAMBIO: De violeta a blanco/gris claro */
 }
 
-/* * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-} */
-
 html {
   scroll-behavior: smooth;
 }
@@ -36,7 +30,7 @@ body {
 }
 
 /* Scrollbar personalizado */
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
   width: 12px;
 }
 
@@ -51,7 +45,7 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #2a2a2a;
-}
+}*/
 
 /* Enlaces */
 a {

@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useScroll, useTransform } from "framer-motion";
+import { motion, MotionValue, useScroll, useTransform } from "framer-motion";
 import { useRef, useState } from "react";
 import SectionContainer from "@/components/ui/SectionContainer";
 
@@ -42,7 +42,7 @@ function ScrollRevealParagraph({
   className = "",
 }: {
   children: React.ReactNode;
-  scrollProgress: any;
+  scrollProgress: MotionValue<number>;
   startProgress: number;
   endProgress: number;
   delay?: number;

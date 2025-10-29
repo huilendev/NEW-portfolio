@@ -111,7 +111,7 @@ const Experience = () => {
             {"\n"}Gin, Echo, Go Modules, Testify, Wire, DataDog, New Relic.
             {"\n"}Framer Motion, Radix UI, CSS Modules.
             {"\n"}Railway, Vercel, Kubernetes, Terraform, GitHub Actions.
-            {"\n"}Figma, Adobe Illustrator.
+            {"\n"}Figma, Adobe Illustrator, Notion.
           </p>
         </div>
 

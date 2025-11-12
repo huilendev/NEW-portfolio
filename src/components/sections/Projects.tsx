@@ -145,7 +145,7 @@ export const content = {
       id: 18,
       title: "American Stone and Marble",
       description: "Web corporativa para empresa de mármol en Estados Unidos.",
-      external: "https://americanstonemarble.com/",
+      web: "https://americanstonemarble.com/",
       technologies: ["UX/UI", "Graphic Design", "Web Design"],
     },
     {
@@ -153,7 +153,7 @@ export const content = {
       title: "Clean Task API",
       description:
         "API en Go para gestión de tareas implementando Clean Architecture. Diseño mantenible y escalable.",
-      external:
+      github:
         "https://github.com/spookycoincidence/go-clean-template-portfolio",
       technologies: ["Go", "Docker"],
     },
@@ -161,7 +161,7 @@ export const content = {
       id: 20,
       title: "Cafe Baires",
       description: "Web para cafeteria en New Jersey.",
-      external: "https://cafebaires.com/",
+      web: "https://cafebaires.com/",
       technologies: ["UX/UI", "Graphic Design", "Web Design"],
     },
         {
@@ -169,7 +169,7 @@ export const content = {
       title: "To do app",
       description:
         "Aplicación de tareas sencilla y funcional para organizar actividades diarias.",
-      external: "https://github.com/spookycoincidence/todoapp-2.0",
+      github: "https://github.com/spookycoincidence/todoapp-2.0",
       technologies: ["next.js", "TypeScript", "CSS Modules"],
     },
   ],

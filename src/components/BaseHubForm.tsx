@@ -2,8 +2,8 @@
 "use client";
 
 import { useRef, useTransition } from "react";
-import { submitForm } from "../../app/actions/submitForm";
-import { createConfetti } from "../../app/utils/confetti";
+import { submitForm } from "../app/actions/submitForm";
+import { createConfetti } from "../app/utils/confetti";
 
 
 

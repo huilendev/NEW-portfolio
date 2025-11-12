@@ -64,9 +64,10 @@ export interface Scalars {
     schema_bshb_workflow_132341158: { timestamp: string, type: 'event-block.created', data: {
   eventBlockId: string;
   eventBlockTitle: string;
-  parentBlockId: string;
-  data: any
-} },
+  parentBlockId: string
+} & {
+                data: Scalars['schema_bshb_event_317471939']
+              } },
 }
 
 export type AnalyticsKeyScope = 'query' | 'send'

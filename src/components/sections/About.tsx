@@ -1,3 +1,4 @@
+// src/components/sections/About.tsx
 "use client";
 
 import { motion, MotionValue, useScroll, useTransform } from "framer-motion";

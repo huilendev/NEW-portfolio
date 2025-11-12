@@ -112,7 +112,7 @@ export default function Navbar() {
                 }}
               >
                 <a
-                  href="https://github.com/spookycoincidence"
+                  href="https://github.com/huilendev"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:opacity-80 transition-opacity"

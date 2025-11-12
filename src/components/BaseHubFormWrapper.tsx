@@ -1,6 +1,7 @@
 // src/components/BaseHubFormWrapper.tsx
 import { Pump } from "basehub/react-pump";
-import { BaseHubForm } from "./BaseHubForm";
+import { BaseHubForm } from "@/components/BaseHubForm";
+
 
 interface ContactFormData {
   form: {

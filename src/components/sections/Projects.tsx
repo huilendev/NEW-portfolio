@@ -44,7 +44,7 @@ export const content = {
       title: "Void Ecommerce",
       description:
         "Ecommerce de ropa minimalista y moderna. Diseño limpio y experiencia de usuario optimizada.",
-      web: "https://void-ecommerce-git-main-spookycoincidences-projects.vercel.app/",
+      web: "https://void-ecommerce-ashy.vercel.app/",
       github: "https://github.com/huilendev/void.ecommerce",
       technologies: ["Next.js", "Tailwind CSS"],
     },
@@ -53,7 +53,7 @@ export const content = {
       title: "Cult Lab Studio",
       description:
         "Página web de prueba para estudio de diseño y desarrollo web. Diseño moderno y responsivo.",
-      web: "https://cult-lab-git-main-spookycoincidences-projects.vercel.app/",
+      web: "https://cult-lab.vercel.app/",
       github: "https://github.com/huilendev/CULT-lab",
       technologies: ["Next.js", "Tailwind CSS"],
     },
@@ -114,7 +114,7 @@ export const content = {
       description:
         "Servicio de rutas y distribución en Go con configuración robusta. Solución eficiente para logística y transporte.",
       github:
-        "https://github.com/spookycoincidence/transport-challenge/blob/main/config/config.go",
+        "https://github.com/spookycoincidence/transport-challenge",
       technologies: ["Go", "Hexagonal Architecture", "Postman"],
     },
     {
@@ -145,7 +145,7 @@ export const content = {
       id: 18,
       title: "American Stone and Marble",
       description: "Web corporativa para empresa de mármol en Estados Unidos.",
-      web: "https://americanstonemarble.com/",
+      web: "https://americanstonemarble.com",
       technologies: ["UX/UI", "Graphic Design", "Web Design"],
     },
     {
@@ -161,7 +161,7 @@ export const content = {
       id: 20,
       title: "Cafe Baires",
       description: "Web para cafeteria en New Jersey.",
-      web: "https://cafebaires.com/",
+      web: "https://cafebaires.com",
       technologies: ["UX/UI", "Graphic Design", "Web Design"],
     },
         {
@@ -169,6 +169,7 @@ export const content = {
       title: "To do app",
       description:
         "Aplicación de tareas sencilla y funcional para organizar actividades diarias.",
+        web: "https://todoapp-2-0.vercel.app/",
       github: "https://github.com/spookycoincidence/todoapp-2.0",
       technologies: ["next.js", "TypeScript", "CSS Modules"],
     },

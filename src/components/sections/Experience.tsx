@@ -36,8 +36,8 @@ const ExperienceCard: React.FC<ExperienceCardProps> = ({
 
 const experiences = [
   {
-    title: "Software Engineer",
-    company: "Mercado Libre",
+    title: "Mercado Libre - Software Engineer",
+    company: "",
     period: "Enero 2020 – Diciembre 2021",
     location: "Argentina",
     responsibilities: [
@@ -49,8 +49,8 @@ const experiences = [
     ],
   },
   {
-    title: "Full Stack Developer",
-    company: "Andreani",
+    title: "Andreani - Full Stack Developer",
+    company: "",
     period: "Enero 2022 – Junio 2022",
     location: "Argentina",
     responsibilities: [
@@ -60,8 +60,8 @@ const experiences = [
     ],
   },
   {
-    title: "Software Engineer",
-    company: "Ualá",
+    title: "Ualá - Software Engineer",
+    company: "",
     period: "Julio 2022 – Diciembre 2023",
     location: "Argentina",
     responsibilities: [
@@ -72,8 +72,8 @@ const experiences = [
     ],
   },
   {
-    title: "Golang & React Developer",
-    company: "Cult Studio",
+    title: "Cult Studio - Golang & React Developer",
+    company: "",
     period: "Enero 2024 – Actualidad",
     location: "Estados Unidos",
     responsibilities: [

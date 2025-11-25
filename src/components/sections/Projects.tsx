@@ -48,8 +48,17 @@ export const content = {
       github: "https://github.com/huilendev/void.ecommerce",
       technologies: ["Next.js", "Tailwind CSS"],
     },
-    {
+        {
       id: 5,
+      title: "Rex orange county",
+      description:
+        "Replica del sitio web de Rex Orange County. Diseño responsivo y moderno.",
+      web: "https://rex-orange-county.vercel.app/",
+      github: "https://github.com/huilendev/rex-orange-county",
+      technologies: ["Next.js", "Tailwind CSS"],
+    },
+    {
+      id: 6,
       title: "Cult Lab Studio",
       description:
         "Página web de prueba para estudio de diseño y desarrollo web. Diseño moderno y responsivo.",
@@ -58,7 +67,7 @@ export const content = {
       technologies: ["Next.js", "Tailwind CSS"],
     },
     {
-      id: 6,
+      id: 7,
       title: "Portfolio Template",
       description:
         "Plantilla personalizable de portfolio para desarrolladores y diseñadores.",
@@ -67,14 +76,14 @@ export const content = {
       technologies: ["Next.js", "Tailwind CSS"],
     },
     {
-      id: 7,
+      id: 8,
       title: "Go CRUD API",
       description: "API REST CRUD desarrollada en Go con arquitectura limpia.",
       github: "https://github.com/spookycoincidence/-go-crud-api-portfolio",
       technologies: ["Go", "Gin", "MySQL"],
     },
     {
-      id: 8,
+      id: 9,
       title: "Workflow API",
       description:
         "API de workflows construida en Go para orquestar y gestionar procesos de negocio de forma modular.",
@@ -82,7 +91,7 @@ export const content = {
       technologies: ["Go", "Clean Architecture", "Docker"],
     },
     {
-      id: 11,
+      id: 10,
       title: "Snake Game",
       description:
         "Juego clásico de la serpiente con controles de teclado, pantalla de pausa y reinicio.",
@@ -91,7 +100,7 @@ export const content = {
       technologies: ["Next.js", "React", "Tailwind CSS"],
     },
     {
-      id: 12,
+      id: 11,
       title: "Gallery",
       description:
         "Galería de imágenes interactivas construida con React y Tailwind CSS.",
@@ -101,7 +110,7 @@ export const content = {
     },
 
     {
-      id: 13,
+      id: 12,
       title: "Password Generator",
       description:
         "Generador de contraseñas en Go con configuraciones personalizables.",
@@ -109,7 +118,7 @@ export const content = {
       technologies: ["Go"],
     },
     {
-      id: 14,
+      id: 13,
       title: "Logistic API",
       description:
         "Servicio de rutas y distribución en Go con configuración robusta. Solución eficiente para logística y transporte.",
@@ -118,7 +127,7 @@ export const content = {
       technologies: ["Go", "Hexagonal Architecture", "Postman"],
     },
     {
-      id: 15,
+      id: 14,
       title: "HX Payments Web",
       description:
         "Frontend en React para el sistema HX Payments. Diseño simple para gestionar pagos y transacciones.",
@@ -126,7 +135,7 @@ export const content = {
       technologies: ["React", "Tailwind CSS", "TypeScript"],
     },
     {
-      id: 16,
+      id: 15,
       title: "HX Payments System",
       description:
         "Sistema de pagos robusto hecho en Go, orientado a transacciones seguras y procesamiento financiero.",
@@ -134,7 +143,7 @@ export const content = {
       technologies: ["Go", "SQL", "AWS"],
     },
         {
-      id: 17,
+      id: 16,
       title: "Financial TX",
       description:
         "Challenge de transacciones financieras en Go. Simulación de movimientos, control y trazabilidad.",
@@ -142,14 +151,14 @@ export const content = {
       technologies: ["Go", "Transactions", "Testing"],
     },
         {
-      id: 18,
+      id: 17,
       title: "American Stone and Marble",
       description: "Web corporativa para empresa de mármol en Estados Unidos.",
       web: "https://americanstonemarble.com",
       technologies: ["UX/UI", "Graphic Design", "Web Design"],
     },
     {
-      id: 19,
+      id: 18,
       title: "Clean Task API",
       description:
         "API en Go para gestión de tareas implementando Clean Architecture. Diseño mantenible y escalable.",
@@ -158,14 +167,14 @@ export const content = {
       technologies: ["Go", "Docker"],
     },
     {
-      id: 20,
+      id: 19,
       title: "Cafe Baires",
       description: "Web para cafeteria en New Jersey.",
       web: "https://cafebaires.com",
       technologies: ["UX/UI", "Graphic Design", "Web Design"],
     },
         {
-      id: 21,
+      id: 20,
       title: "To do app",
       description:
         "Aplicación de tareas sencilla y funcional para organizar actividades diarias.",

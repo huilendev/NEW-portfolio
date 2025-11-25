@@ -102,10 +102,6 @@ const Experience = () => {
             responsibilities={experience.responsibilities}
           />
         ))}
-        ExperienceCard  stack General
-        {
-          
-        }
 
         {/* Stack General */}
         <div className="border-t border-gray-700 pt-10">

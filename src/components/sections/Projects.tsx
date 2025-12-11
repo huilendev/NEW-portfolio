@@ -61,25 +61,23 @@ export const content = {
       github: "https://github.com/huilendev/CULT-lab",
       technologies: ["Next.js", "Tailwind CSS"],
     },
-
-    /* --- NUEVO PROYECTO AGREGADO --- */
     {
       id: 7,
-      title: "Books Reviews",
+      title: "Blog",
       description:
-        "Plataforma minimalista para publicar, organizar y leer reseñas de libros.",
-      web: "https://booksreviews.vercel.app/",
-      github: "https://github.com/huilendev/booksreviews",
+        "Blog hecho con V0 y Basehub para compartir reseñas de libros y reflexiones personales.",
+      web: "https://v0-blog-g3.vercel.app/",
+      github: "https://github.com/huilendev/v0-blog",
       technologies: ["Next.js", "Tailwind CSS", "TypeScript"],
     },
 
     {
       id: 8,
-      title: "Portfolio Template",
+      title: "Cyberpunk Portfolio",
       description:
-        "Plantilla personalizable de portfolio para desarrolladores y diseñadores.",
-      web: "https://portfoliotemplate-ruddy.vercel.app/",
-      github: "https://github.com/huilendev/portfoliotemplate",
+        "Portfolio con temática cyberpunk para diseñadora UX/UI. ",
+      web: "https://macarenaescalante.vercel.app/",
+      github: "https://github.com/huilendev/portfolio-maqui",
       technologies: ["Next.js", "Tailwind CSS"],
     },
     {

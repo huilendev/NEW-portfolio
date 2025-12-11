@@ -9,15 +9,6 @@ export const content = {
   projects: [
     {
       id: 1,
-      title: "Spotify Clone",
-      description:
-        "Exploración de transiciones animadas usando View Transitions API en Next.js. Demo de efectos suaves y modernos en cambios de vista.",
-      web: "https://spookyfi-view-transitions.vercel.app/",
-      github: "https://github.com/spookycoincidence/Spookyfi-ViewTransitions",
-      technologies: ["Next.js", "View Transitions API", "Tailwind CSS", "Astro"],
-    },
-    {
-      id: 2,
       title: "Technicolor Blog",
       description:
         "Blog sobre Technicolor, desarrollado con Next.js, con contenido educativo y multimedia.",
@@ -26,16 +17,21 @@ export const content = {
       technologies: ["Next.js", "Tailwind CSS"],
     },
     {
-      id: 3,
-      title: "Fleur de Lune",
+      id: 2,
+      title: "Spotify Clone",
       description:
-        "A Studio Inspired by Nature. Construido con Next.js y Tailwind CSS.",
-      web: "https://flowermoon.vercel.app/",
-      github: "https://github.com/huilendev/flowermoon",
-      technologies: ["Go", "Gin", "MySQL"],
+        "Exploración de transiciones animadas usando View Transitions API en Next.js. Demo de efectos suaves y modernos en cambios de vista.",
+      web: "https://spookyfi-view-transitions.vercel.app/",
+      github: "https://github.com/spookycoincidence/Spookyfi-ViewTransitions",
+      technologies: [
+        "Next.js",
+        "View Transitions API",
+        "Tailwind CSS",
+        "Astro",
+      ],
     },
     {
-      id: 4,
+      id: 3,
       title: "Void Ecommerce",
       description:
         "Ecommerce de ropa minimalista y moderna. Diseño limpio y experiencia de usuario optimizada.",
@@ -44,7 +40,7 @@ export const content = {
       technologies: ["Next.js", "Tailwind CSS"],
     },
     {
-      id: 5,
+      id: 4,
       title: "Rex orange county",
       description:
         "Replica del sitio web de Rex Orange County. Diseño responsivo y moderno.",
@@ -53,7 +49,7 @@ export const content = {
       technologies: ["Next.js", "Tailwind CSS"],
     },
     {
-      id: 6,
+      id: 5,
       title: "Cult Lab Studio",
       description:
         "Página web de prueba para estudio de diseño y desarrollo web. Diseño moderno y responsivo.",
@@ -62,7 +58,7 @@ export const content = {
       technologies: ["Next.js", "Tailwind CSS"],
     },
     {
-      id: 7,
+      id: 6,
       title: "Blog",
       description:
         "Blog hecho con V0 y Basehub para compartir reseñas de libros y reflexiones personales.",
@@ -72,13 +68,21 @@ export const content = {
     },
 
     {
-      id: 8,
+      id: 7,
       title: "Cyberpunk Portfolio",
-      description:
-        "Portfolio con temática cyberpunk para diseñadora UX/UI. ",
+      description: "Portfolio con temática cyberpunk para diseñadora UX/UI. ",
       web: "https://macarenaescalante.vercel.app/",
       github: "https://github.com/huilendev/portfolio-maqui",
       technologies: ["Next.js", "Tailwind CSS"],
+    },
+    {
+      id: 8,
+      title: "Fleur de Lune",
+      description:
+        "A Studio Inspired by Nature. Construido con Next.js y Tailwind CSS.",
+      web: "https://flowermoon.vercel.app/",
+      github: "https://github.com/huilendev/flowermoon",
+      technologies: ["Go", "Gin", "MySQL"],
     },
     {
       id: 9,
@@ -165,7 +169,8 @@ export const content = {
       title: "Clean Task API",
       description:
         "API en Go para gestión de tareas implementando Clean Architecture. Diseño mantenible y escalable.",
-      github: "https://github.com/spookycoincidence/go-clean-template-portfolio",
+      github:
+        "https://github.com/spookycoincidence/go-clean-template-portfolio",
       technologies: ["Go", "Docker"],
     },
     {
